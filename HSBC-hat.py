@@ -7,7 +7,6 @@
 import streamlit as st
 import requests
 import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer
 import openai
 from openai import AzureOpenAI
 from PIL import Image
